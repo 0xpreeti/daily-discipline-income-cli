@@ -49,7 +49,7 @@ This project is built to drive:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/daily-discipline-cli.git
+git clone https://github.com/Oxpreeti/daily-discipline-cli.git
 
 # Move into the project directory
 cd daily-discipline-cli
